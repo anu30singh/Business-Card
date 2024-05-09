@@ -1,10 +1,10 @@
 import React from 'react'
 import './MainContent.css'
 import me from './assets/me.jpeg'
-import twitter from './assets/twitter.png'
-import Linkedin from './assets/linkedin.svg'
-import Mail from './assets/Mail.svg'
-import github from './assets/github.svg'
+//import twitter from './assets/twitter.png'
+//import Linkedin from './assets/linkedin.svg'
+//import Mail from './assets/Mail.svg'
+//import github from './assets/github.svg'
 
 export default function MainContent() {
     return (
